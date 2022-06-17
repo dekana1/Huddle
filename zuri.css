@@ -1,6 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap');
+
 body{
     margin: 0;
     font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #nav-bar{
@@ -79,6 +83,7 @@ nav{
 .card-text-heading{
     color: hsl(192, 100%, 9%);
     font-weight: 700;
+    font-family: 'Poppins', sans-serif;
 }
 .card-text{
     width: 50%;
